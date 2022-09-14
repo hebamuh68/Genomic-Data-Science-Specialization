@@ -1,4 +1,4 @@
-# Genomic-Data-Science-Specialization
+# Genomic-Data-Science-Specialization 🧬🔬
 
 1. ### [**Course 1: Introduction to Genomic Technologies**](https://github.com/hebamuh68/Genomic-Data-Science-Specialization/tree/main/Course%201.%20Introduction%20to%20Genomic%20Technologies)
   - In this project you will be reading a genomic data science paper and answering some questions to help you learn about how the different fields in genomic data science.
