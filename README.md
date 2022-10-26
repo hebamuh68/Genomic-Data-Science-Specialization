@@ -7,7 +7,7 @@
 2. ### [**Course 2: Python for Genomic Data Science**]()
 ![Screenshot from 2022-09-22 22-09-04](https://user-images.githubusercontent.com/69214737/191841545-eab9ee23-e108-44a7-bf7b-01f3f940aec0.png)
 
-4. ### [**Course 3: Algorithms for DNA Sequencing**]()
+4. ### [**Course 3: Algorithms for DNA Sequencing**](https://github.com/hebamuh68/Genomic-Data-Science-Specialization/tree/main/Course%203.%20Algorithms%20for%20DNA%20Sequencing)
 5. ### [**Course 4: Command Line Tools for Genomic Data Science**]()
 6. ### [**Course 5: Statistics for Genomic Data Science**]()
 7. ### [**Course 6: Bioconductor for Genomic Data Science**]()
